@@ -1,2 +1,10 @@
-# Manish_Verma
-A collection of my Bug Bounty reports and CTF writeups, covering web security vulnerabilities like XSS, SQLi, IDOR, CSRF, CORS, and more. Exploring real-world security flaws and practical exploitation techniques."  📝 Tags: #bugbounty #ctf #pentesting #security #hacking #websecurity
+
+👨‍💻 Manish Verma  
+
+🚀 **Ethical Hacker | Web Pentester | Bug Bounty Hunter**  
+🔍 Skilled in Web Security, XSS, SQLi, IDOR, CSRF, OSINT & more.  
+🏆 Reported security bugs on multiple platforms.  
+🎯 Passionate about cybersecurity & CTF challenges.  
+
+📩 **Contact:** manishverma9800linux@gmail.com  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/manish-verma-b88795319/]  
